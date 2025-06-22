@@ -1,0 +1,133 @@
+{
+  "titles": {
+    "selectLanguage": "Select Language",
+    "part1": "Discover your ideal career with a",
+    "part2": "quick quiz",
+    "faq_title": "Frequently Asked Question "
+  },
+  "descriptions": {
+    "chooseLanguage": "Choose your preferred language to continue",
+    "part1": "Answer a few simple questions to unlock the career path that",
+    "part2": "truly fits your personality"
+  },
+  "buttons": {
+    "back": "Back",
+    "continue": "Continue"
+  },
+  "messages": {
+    "quizTime": "Takes only 2 minutes",
+    "personalized": "Tailored just for you",
+    "cta_message": "{{count}} of {{total}} spots already claimed – Don’t miss your chance!",
+    "complete": "All 500 students have registered — please wait for Phase 2."
+  },
+  "imageAlt": "Illustration showing career discovery journey",
+  "welcome": {
+    "title": {
+      "part1": "Your perfect career starts with a",
+      "part2": "simple quiz"
+    },
+    "description": {
+      "part1": "Just answer a few easy questions and discover the career path that",
+      "part2": "matches your personality"
+    },
+    "imageAlt": "Career guidance illustration",
+    "trust": {
+      "quizTime": "2 min quiz",
+      "personalized": "Personalized results"
+    }
+  },
+  "signup": {
+    "title": "Create your account",
+    "subtitle": "Fill out the form below to get started.",
+    "fullName": "Full Name",
+    "fullNamePlaceholder": "Enter your full name",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email address",
+    "password": "Password",
+    "passwordPlaceholder": "Create a password",
+    "phone": "Phone Number",
+    "phonePlaceholder": "Enter your phone number (optional)",
+    "class": "Class",
+    "gender": "Gender",
+    "area": "Area",
+    "institute": "Institute",
+    "termsFull": "I agree to the <1>Terms & Conditions</1>",
+    "button": "Sign Up",
+    "loading": "Creating your account..."
+  },
+  "errors": {
+    "nameRequired": "Name is required",
+    "nameLength": "Name must be at least 2 characters",
+    "emailRequired": "Email is required",
+    "emailPattern": "Enter a valid email address",
+    "emailTaken": "Email already exists. Try logging in.",
+    "passwordRequired": "Password is required",
+    "passwordLength": "Password must be at least 8 characters",
+    "classRequired": "Please select your class",
+    "genderRequired": "Please select your gender",
+    "areaRequired": "Please select your area",
+    "instituteRequired": "Please select your institute",
+    "terms": "You must agree to the terms to proceed",
+    "generic": "Something went wrong. Please try again."
+  },
+  "gender": {
+    "male": "Male",
+    "female": "Female"
+  },
+  "area": {
+    "urban": "Urban",
+    "rural": "Rural"
+  },
+  "institute": {
+    "public": "Public",
+    "private": "Private"
+  },
+  "faqs": [
+    {
+      "question": "What is your return policy?",
+      "answer": "We offer a 30-day return policy with no questions asked."
+    },
+    {
+      "question": "How long does shipping take?",
+      "answer": "Shipping usually takes 5–7 business days depending on your location."
+    },
+    {
+      "question": "Do you offer customer support?",
+      "answer": "Yes, 24/7 support via email and live chat."
+    }
+  ],
+  "survey": {
+    "questions": [
+      "I feel comfortable sharing my ideas in group discussions and projects.",
+      "I find it easy to collaborate with others in a team setting.",
+      "I am confident when presenting in front of a group."
+    ],
+    "popup": {
+      "title": "Welcome to the Survey",
+      "description": "Please answer the questions honestly. Your responses help us improve.",
+      "continue": "Start Survey"
+    },
+    "options": {
+      "stronglyDisagree": "Strongly Disagree",
+      "disagree": "Disagree",
+      "neutral": "Neutral",
+      "agree": "Agree",
+      "stronglyAgree": "Strongly Agree"
+    },
+    "navigation": {
+      "back": "Back",
+      "submit": "Submit",
+      "loading": "submitting..."
+    },
+    "submitted": {
+      "title": "Survey Already Submitted",
+      "description": "Thanks for your response! You’ve already completed the survey.",
+      "button": "Go to Channel"
+    }
+  },
+  "join": {
+    "title": "You're Almost Done!",
+    "description": "We've prepared your career match results. Join our official WhatsApp channel to receive the link on {{date}}. You'll discover 5 perfect careers for you — and understand why they’re right for your personality.",
+    "button": "Join WhatsApp Channel"
+  }
+}
